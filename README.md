@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Carmen-prog
+- 👋 Hi, I’m @carmencheong
 - 👀 I’m interested in Data Analytics and Application Development!
 - 🌱 I’m currently learning more about web development
